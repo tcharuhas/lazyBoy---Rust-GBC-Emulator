@@ -1,0 +1,8 @@
+[package]
+name = "lazyBoy"
+version = "0.1.0"
+authors = ["Tyler Charuhas <charuhast@xavier.edu"]
+
+[dependencies]
+minifb = "0.9.0"
+bitflags = "0.7"
